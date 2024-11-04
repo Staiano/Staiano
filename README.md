@@ -30,7 +30,7 @@ Antes de ingressar na área de Ciência de Dados, atuei como artista 3D e líder
  
 
 
-- **Linguagens de Programação:** Python, SQL, R
+- **Linguagens de Programação:** Python, SQL
 - **Modelagem Estatística:** Modelos Lineares, Modelos Logísticos, Análise de Séries Temporais
 - **Machine Learning:** Aprendizado Supervisionado e Não Supervisionado, Regressão, Classificação
 - **Ferramentas Analíticas:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, StatsModels
